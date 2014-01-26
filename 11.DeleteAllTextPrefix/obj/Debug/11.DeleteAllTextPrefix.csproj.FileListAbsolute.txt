@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\11.DeleteAllTextPrefix\bin\Debug\11.DeleteAllTextPrefix.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\11.DeleteAllTextPrefix\bin\Debug\11.DeleteAllTextPrefix.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\11.DeleteAllTextPrefix\bin\Debug\11.DeleteAllTextPrefix.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\11.DeleteAllTextPrefix\obj\Debug\11.DeleteAllTextPrefix.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\11.DeleteAllTextPrefix\obj\Debug\11.DeleteAllTextPrefix.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\11.DeleteAllTextPrefix\obj\Debug\11.DeleteAllTextPrefix.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\09.DeleteAllOddLines\bin\Debug\09.DeleteAllOddLines.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\09.DeleteAllOddLines\obj\Debug\09.DeleteAllOddLines.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\09.DeleteAllOddLines\bin\Debug\09.DeleteAllOddLines.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\09.DeleteAllOddLines\bin\Debug\09.DeleteAllOddLines.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\09.DeleteAllOddLines\obj\Debug\09.DeleteAllOddLines.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\09.DeleteAllOddLines\obj\Debug\09.DeleteAllOddLines.pdb

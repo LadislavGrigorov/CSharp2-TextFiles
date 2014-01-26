@@ -1,0 +1,10 @@
+Welcome to the official web site of the free book "Fundamentals of Computer Programming with C#".
+ It aims to provide novice programmers solid foundation of basic knowledge regardless of the 
+programming language. This book covers the fundamentals of programming that have not changed
+ significantly over the last 10 years. Educational content was developed by an authoritative
+ author team led by Svetlin Nakov and covers topics such as variables conditional statements,
+ loops and arrays, and more complex concepts such as data structures (lists, stacks, queues,
+ trees, hash tables, etc.), and recursion recursive algorithms, object-oriented programming and
+ high-quality code. From the book you will learn how to think as programmers and how to solve
+ efficiently programming problems. You will master the fundamental principles of programming
+ and basic data structures and algorithms, without which you can't become a software engineer.

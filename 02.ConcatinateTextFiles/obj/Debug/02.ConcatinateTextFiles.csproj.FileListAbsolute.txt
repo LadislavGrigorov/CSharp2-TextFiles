@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\02.ConcatinateTextFiles\bin\Debug\02.ConcatinateTextFiles.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\02.ConcatinateTextFiles\bin\Debug\02.ConcatinateTextFiles.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\02.ConcatinateTextFiles\bin\Debug\02.ConcatinateTextFiles.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\02.ConcatinateTextFiles\obj\Debug\02.ConcatinateTextFiles.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\02.ConcatinateTextFiles\obj\Debug\02.ConcatinateTextFiles.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\02.ConcatinateTextFiles\obj\Debug\02.ConcatinateTextFiles.pdb

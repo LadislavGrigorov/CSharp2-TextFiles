@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\05.MaxSumOfArray\bin\Debug\05.MaxSumOfArray.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\05.MaxSumOfArray\bin\Debug\05.MaxSumOfArray.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\05.MaxSumOfArray\bin\Debug\05.MaxSumOfArray.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\05.MaxSumOfArray\obj\Debug\05.MaxSumOfArray.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\05.MaxSumOfArray\obj\Debug\05.MaxSumOfArray.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\05.MaxSumOfArray\obj\Debug\05.MaxSumOfArray.pdb

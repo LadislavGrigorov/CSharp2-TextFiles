@@ -1,0 +1,3 @@
+A sentence is a grammatical unit consisting of one or more words that are grammatically linked.
+ A sentence can include words grouped meaningfully to express a statement, question, exclamation, 
+request, command or suggestion.

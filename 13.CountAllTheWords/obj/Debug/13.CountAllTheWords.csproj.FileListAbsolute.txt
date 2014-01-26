@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\13.CountAllTheWords\bin\Debug\13.CountAllTheWords.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\13.CountAllTheWords\bin\Debug\13.CountAllTheWords.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\13.CountAllTheWords\bin\Debug\13.CountAllTheWords.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\13.CountAllTheWords\obj\Debug\13.CountAllTheWords.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\13.CountAllTheWords\obj\Debug\13.CountAllTheWords.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\13.CountAllTheWords\obj\Debug\13.CountAllTheWords.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

@@ -1,0 +1,5 @@
+horse - 5
+brave - 4
+man - 3
+house - 2
+duck - 2

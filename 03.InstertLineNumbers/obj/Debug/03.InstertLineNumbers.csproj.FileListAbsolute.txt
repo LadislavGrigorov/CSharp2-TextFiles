@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\03.InstertLineNumbers\bin\Debug\03.InstertLineNumbers.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\03.InstertLineNumbers\bin\Debug\03.InstertLineNumbers.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\03.InstertLineNumbers\bin\Debug\03.InstertLineNumbers.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\03.InstertLineNumbers\obj\Debug\03.InstertLineNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\03.InstertLineNumbers\obj\Debug\03.InstertLineNumbers.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\03.InstertLineNumbers\obj\Debug\03.InstertLineNumbers.pdb

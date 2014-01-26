@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\07.ReplaceStart\bin\Debug\07.ReplaceStart.exe.config
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\07.ReplaceStart\bin\Debug\07.ReplaceStart.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\07.ReplaceStart\bin\Debug\07.ReplaceStart.pdb
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\07.ReplaceStart\obj\Debug\07.ReplaceStart.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\07.ReplaceStart\obj\Debug\07.ReplaceStart.exe
+D:\Telerik\C# Part 2\06.TextFiles\TextFilesHomework\TextFiles\07.ReplaceStart\obj\Debug\07.ReplaceStart.pdb
